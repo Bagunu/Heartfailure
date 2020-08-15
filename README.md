@@ -28,3 +28,9 @@ Value 1: fixed defect (no blood flow in some part of the heart)<br>
 Value 2: normal blood flow<br>
 Value 3: reversible defect (a blood flow is observed but it is not normal)<br>
 target: Heart disease (1 = no, 0= yes)<br>
+## Data cleaning and visualization<br>
+Before running any model, we first check and analyze the data to see if any correctness should be made. <br>
+Checking for multicollinearity with correlation plots.<br>
+Some visualization with important features to get deep understanding.
+## Running models with default paramaters<br>
+We run models, which algorithm gives the best results we will continue with optimizing hyperparameters of the selected model.

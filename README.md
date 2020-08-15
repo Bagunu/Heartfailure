@@ -1,3 +1,7 @@
+https://public.tableau.com/profile/bright3057#!/vizhome/FinalProject_15969138457430/Dashboard1?publish=yes
+
+
+
 # Heart Disease UCI-Diagnosis & Prediction <br>
 Every day, the average human heart beats around 100,000 times, pumping 2,000 gallons of blood through the body. Inside your body there are 60,000 miles of blood vessels.  Men experience typical symptoms of heart attack, such as chest pain , discomfort, and stress. They may also experience pain in other areas, such as arms, neck , back, and jaw, and shortness of breath, sweating, and discomfort that mimics heartburn.<br>
 This work shows the important features that have direct impact in heart disease, and how good we can predict the heart failure.
